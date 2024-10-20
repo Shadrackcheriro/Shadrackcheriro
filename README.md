@@ -4,8 +4,10 @@
   </a>
 </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=0000FF&center=true&vCenter=true&width=500&lines=A+passionate+frontend+developer!!" alt="A passionate frontend developer from Kenya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=0000FF&center=true&vCenter=true&width=500&lines=A+passionate+frontend+developer!!" alt="A passionate frontend developer" />
 </h3>
+<h4 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=0000FF&center=true&vCenter=true&width=500&lines=welcome+,+let's+do+this+!!" alt="welcome, Let's do this!!" />
 
 
 <p align="left">
